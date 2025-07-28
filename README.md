@@ -45,17 +45,10 @@ I'm a passionate Full Stack Developer with a strong interest in AI automation. F
 - **Tech Stack**: Django, MySQL, AWS S3, CI/CD, GitHub Actions
 - **Description**: A classic crosswords puzzle game for Roku TV. Users can play interactively via remote with dynamic content served from the backend.
 
-#### 🧾 Invoice App from PSD
+#### 🧾 [Invoice App from PSD](https://github.com/RokuProducts/invoice-maker)
 - **Tech Stack**: Django, MySQL, Photoshop, Python Templates
 - **Description**: Automatically extracts invoice data from Photoshop layers and generates new ones for business management.
 
----
-
-### 📊 Top Languages by Repository
-
-![Top Languages](./top_languages_by_repo.png)
-
----
 
 ### 🛠️ Skills
 
