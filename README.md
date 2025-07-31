@@ -31,7 +31,7 @@ I'm a passionate Full Stack Developer with a strong interest in AI automation. F
 
 #### 📢 [Ads Den](https://github.com/RokuProducts/ads-backend)
 - **Tech Stack**: Django, MySQL, AWS S3, Redis, Chart.js
-- **Description**: An ad server & CDN with full campaign management. Real-time ad metrics tracked with interactive dashboards.
+- **Description**: An ad server & CDN with full campaign management. Real-time ad metrics tracked with interactive dashboards.This system is designed for managing advertising campaigns across multiple app platforms (e.g., Android, iOS, Roku, Android TV). It allows admin users to manage apps, ads, campaigns, and targeting rules, while tracking ad performance across dimensions like views, impressions, and clicks. The design ensures modularity, scalability, and clear validation logic for different platform and ad types.
 
 #### 📂 [Horilla](https://github.com/Invotyx/horilla)
 - **Tech Stack**: Django, PostgreSQL, AWS S3, CI/CD, GitHub Actions
